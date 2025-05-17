@@ -64,3 +64,4 @@ Keep MVP to:
 * "Fevicol bundle" as .zip
   Then iterate with smart branding and extras.
 
+https://github.com/mr-shade/logomint
