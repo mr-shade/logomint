@@ -46,6 +46,9 @@ LogoMint is an AI-powered logo generator that allows users to create unique and 
 
 * **Frontend**: Next.js + Tailwind CSS
 * **Backend**: NextJS APIs
+* **Database**: D1 (SQLite)
+* **Authentication**: StackAuth
+* **Storage**: Cloudflare R2 (Will be used for storing logos and assets later)
 * **AI**: Use OpenAI or custom models for design suggestions
 * **Export Engine**: Use SVG to generate variants (sharp, vector, etc.)
 
